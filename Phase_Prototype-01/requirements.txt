@@ -1,0 +1,7 @@
+
+
+Mediapipe
+Opencv
+Matplotlib
+Numpy
+Display
